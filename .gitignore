@@ -1,2 +1,6 @@
-# Project exclude paths
-/.gradle/
+Thumbs.db*
+.DS_Store*
+node_modules
+.idea
+target
+*.iml
