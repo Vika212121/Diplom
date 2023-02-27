@@ -11,9 +11,9 @@ ___
 * кредитному сервису.
 ___
 ##### Документация:
-[План по автоматизации тестирования](https://github.com/Vika212121/Diplom/blob/master/Plan.md)  
-[Отчет по итогам автоматизированного тестирования](https://github.com/Vika212121/Diplom/blob/master/Report.md)  
-[Отчет по итогам автоматизации](github.com/Vika212121/Diplom/blob/master/Summary.md)  
+[План по автоматизации тестирования](https://github.com/Vika212121/Diplom/blob/master/Plan.md "План по автоматизации тестирования")  
+[Отчет по итогам автоматизированного тестирования](https://github.com/Vika212121/Diplom/blob/master/Report.md "Отчет по итогам автоматизированного тестирования")  
+[Отчет по итогам автоматизации](github.com/Vika212121/Diplom/blob/master/Summary.md "Отчет по итогам автоматизации")  
 
 ___
 ##### **Инструкция по запуску тестов:**
